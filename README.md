@@ -1,4 +1,4 @@
 ```sh
 pnpm i
-pnp
+pnpm dev
 ```
